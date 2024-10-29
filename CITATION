@@ -1,0 +1,7 @@
+@inproceedings{capozzigoncalves2024recpad,
+	author = {Leonardo Capozzi, Tiago Gonçalves, Jaime S. Cardoso and Ana Rebelo},
+	title = {{Towards Fingerprint Presentation Attack Generation using Generative Adversarial Networks}},
+	booktitle = {{30th Portuguese Conference in Pattern Recognition (RECPAD)}},
+	year = {2024},
+	address = {{Covilhã, Portugal}}
+}
